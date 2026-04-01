@@ -1,0 +1,20 @@
+{
+  "name": "uc2_desenvolvedor_algoritimo",
+  "version": "1.0.0",
+  "description": "Repositorio da Unidade Curricular 2 TDS do Senac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OiGubin/UC2---DesenvolverAlgoritimos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OiGubin/UC2---DesenvolverAlgoritimos/issues"
+  },
+  "homepage": "https://github.com/OiGubin/UC2---DesenvolverAlgoritimos#readme"
+}

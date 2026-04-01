@@ -1,0 +1,15 @@
+/* Define o estilo geral da pagina (body)*/
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif; /*fonte do texto*/
+    background-color: rgb(145, 77, 209); /*cor do fundo*/
+    text-align: center; /*centralizat no meio*/
+    margin-top: 50px; /*adiciona espaço de 50px no topo da pagina*/
+}
+/*Define o estilo da caixa central */
+.caixa{
+    background-color: azure; /*cor da caixa*/
+    padding: 20px; /*espaço interno da caixa*/
+    width: 300px;
+    margin: auto; /*centraliza a caixa */
+    border-radius: 10px;
+}
